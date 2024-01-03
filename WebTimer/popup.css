@@ -1,0 +1,8 @@
+.time-manager-content{
+    .add-site{
+        display: flex;
+        .url{
+            margin-right:10px;
+        }
+    }
+}
